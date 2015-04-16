@@ -1,10 +1,10 @@
 {
-	"name":"Spiritus",
-	"thumbnail":"spiritus.png",
+	"name":"Aperture",
+	"thumbnail":"aperture.png",
 	"templateType":"standard",
 	"pageTypes": ["home"],
 	"tags": {
-		"en": ["clean","fancy","bold","positive","spirit","fit","healthy","flat"]
+		"en": ["design", "portfolio", "art", "images", "agency", "creative"]
 	},
 	"images":[
         "images/feature-bg.png"
@@ -12,9 +12,9 @@
 	"colorSwatches":
 	{
         "Swatch 1": {
-            "color1":"#EBEBEB",
+            "color1":"#DBDBDB",
             "color2":"#444135",
-            "color3":"#56D3E3",
+            "color3":"#28B6C3",
             "color4":"#ffffff",
             "color5":"#264B48",
             "color6":"#ffffff",
