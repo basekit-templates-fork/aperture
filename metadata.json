@@ -1,164 +1,173 @@
 {
-	"name":"Aperture",
-	"thumbnail":"aperture.png",
-	"templateType":"standard",
-	"pageTypes": ["home"],
-	"tags": {
-		"en": ["design", "portfolio", "art", "images", "agency", "creative"]
-	},
-	"images":[
+    "name": "Aperture",
+    "thumbnail": "aperture.png",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
+    "tags": {
+        "en": [
+            "design",
+            "portfolio",
+            "art",
+            "images",
+            "agency",
+            "creative"
+        ]
+    },
+    "images": [
         "images/feature-bg.png"
     ],
-	"colorSwatches":
-	{
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#DBDBDB",
-            "color2":"#444135",
-            "color3":"#28B6C3",
-            "color4":"#ffffff",
-            "color5":"#264B48",
-            "color6":"#ffffff",
-            "color7":"#0FB1A5"
+            "color1": "#DBDBDB",
+            "color2": "#444135",
+            "color3": "#28B6C3",
+            "color4": "#ffffff",
+            "color5": "#264B48",
+            "color6": "#ffffff",
+            "color7": "#0FB1A5"
         },
         "Swatch 2": {
-           	"color1":"#ffffff",
-            "color2":"#92007B",
-            "color3":"#06A6B6",
-            "color4":"#ffffff",
-            "color5":"#000000",
-            "color6":"#ffffff",
-            "color7":"#92007B"
+            "color1": "#ffffff",
+            "color2": "#92007B",
+            "color3": "#06A6B6",
+            "color4": "#ffffff",
+            "color5": "#000000",
+            "color6": "#ffffff",
+            "color7": "#92007B"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#4E376E",
-            "color3":"#94B733",
-            "color4":"#ffffff",
-            "color5":"#444444",
-            "color6":"#ffffff",
-            "color7":"#4E376E"
+            "color1": "#ffffff",
+            "color2": "#4E376E",
+            "color3": "#94B733",
+            "color4": "#ffffff",
+            "color5": "#444444",
+            "color6": "#ffffff",
+            "color7": "#4E376E"
         },
         "Swatch 4": {
-           	"color1":"#ffffff",
-            "color2":"#057F9A",
-            "color3":"#A0BB02",
-            "color4":"#ffffff",
-            "color5":"#264B48",
-            "color6":"#ffffff",
-            "color7":"#4B4A42"
+            "color1": "#ffffff",
+            "color2": "#057F9A",
+            "color3": "#A0BB02",
+            "color4": "#ffffff",
+            "color5": "#264B48",
+            "color6": "#ffffff",
+            "color7": "#4B4A42"
         },
         "Swatch 5": {
-           "color1":"#ffffff",
-            "color2":"#88A803",
-            "color3":"#803F12",
-            "color4":"#ffffff",
-            "color5":"#264B48",
-            "color6":"#ffffff",
-            "color7":"#88A803"
+            "color1": "#ffffff",
+            "color2": "#88A803",
+            "color3": "#803F12",
+            "color4": "#ffffff",
+            "color5": "#264B48",
+            "color6": "#ffffff",
+            "color7": "#88A803"
         }
-	},
-	"fontSwatch": {
-		"title": "Montserrat / Trebuchet MS",
-		"font1": {
-			"font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
-			"font-size": "36px",
-			"font-weight": "800",
-			"line-height": "50px",
-			"color": "@color-swatch2",
-			"background-color": "@color-swatch1",
-			"background-color-hover": "@color-swatch1",
-			"letter-spacing": "inherit"
-		},
-		"font2": {
-			"font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
-			"font-size": "24px",
-			"font-weight": "800",
-			"line-height": "36px",
-			"color": "@color-swatch2",
-			"background-color": "@color-swatch2",
-			"background-color-hover": "@color-swatch2",
-			"letter-spacing": "inherit"
-		},
-		"font3": {
-			"font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
-			"font-size": "20px",
-			"font-weight": "800",
-			"line-height": "36px",
-			"color": "@color-swatch2",
-			"background-color": "@color-swatch3",
-			"background-color-hover": "@color-swatch3",
-			"letter-spacing": "inherit"
-		},
-		"font4": {
-			"font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
-			"font-size": "18px",
-			"font-weight": "800",
-			"line-height": "36px",
-			"color": "@color-swatch2",
-			"background-color": "@color-swatch4",
-			"background-color-hover": "@color-swatch4",
-			"letter-spacing": "inherit"
-		},
-		"font5": {
-			"font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
-			"font-size": "16px",
-			"font-weight": "400",
-			"line-height": "25px",
-			"color": "@color-swatch5",
-			"background-color": "@color-swatch5",
-			"background-color-hover": "@color-swatch5",
-			"letter-spacing": "inherit"
-		},
-		"font6": {
-			"font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
-			"font-size": "18px",
-			"font-weight": "700",
-			"line-height": "42px",
-			"color": "@color-swatch1",
-			"color-hover": "@color-swatch1",
-			"background-color": "@color-swatch6",
-			"background-color-hover": "@color-swatch2",
-			"letter-spacing": "inherit"
-		},
-		"font7": {
-			"font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
-			"font-size": "16px",
-			"font-weight": "700",
-			"line-height": "50px",
-			"color": "@color-swatch1",
-			"background-color": "@color-swatch3",
-			"background-color-hover": "@color-swatch3",
-			"letter-spacing": "inherit"
-		},
-		"font8": {
-			"font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
-			"font-size": "72px",
-			"font-weight": "800",
-			"line-height": "78px",
-			"color": "@color-swatch4",
-			"background-color": "@color-swatch1",
-			"background-color-hover": "@color-swatch1",
-			"letter-spacing": "inherit"
-		},
-		"font9": {
-			"font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
-			"font-size": "24px",
-			"font-weight": "800",
-			"line-height": "34px",
-			"color": "@color-swatch4",
-			"background-color": "@color-swatch4",
-			"background-color-hover": "@color-swatch4",
-			"letter-spacing": "inherit"
-		},
-		"font10": {
-			"font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
-			"font-size": "24px",
-			"font-weight": "800",
-			"line-height": "44px",
-			"color": "@color-swatch4",
-			"background-color": "@color-swatch4",
-			"background-color-hover": "@color-swatch4",
-			"letter-spacing": "inherit"
-		}
-	}
+    },
+    "fontSwatch": {
+        "title": "Montserrat / Trebuchet MS",
+        "font1": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "36px",
+            "font-weight": "800",
+            "line-height": "50px",
+            "color": "@color-swatch2",
+            "background-color": "@color-swatch1",
+            "background-color-hover": "@color-swatch1",
+            "letter-spacing": "inherit"
+        },
+        "font2": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "24px",
+            "font-weight": "800",
+            "line-height": "36px",
+            "color": "@color-swatch2",
+            "background-color": "@color-swatch2",
+            "background-color-hover": "@color-swatch2",
+            "letter-spacing": "inherit"
+        },
+        "font3": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "20px",
+            "font-weight": "800",
+            "line-height": "36px",
+            "color": "@color-swatch2",
+            "background-color": "@color-swatch3",
+            "background-color-hover": "@color-swatch3",
+            "letter-spacing": "inherit"
+        },
+        "font4": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "18px",
+            "font-weight": "800",
+            "line-height": "36px",
+            "color": "@color-swatch2",
+            "background-color": "@color-swatch4",
+            "background-color-hover": "@color-swatch4",
+            "letter-spacing": "inherit"
+        },
+        "font5": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "16px",
+            "font-weight": "400",
+            "line-height": "25px",
+            "color": "@color-swatch5",
+            "background-color": "@color-swatch5",
+            "background-color-hover": "@color-swatch5",
+            "letter-spacing": "inherit"
+        },
+        "font6": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "18px",
+            "font-weight": "700",
+            "line-height": "42px",
+            "color": "@color-swatch1",
+            "color-hover": "@color-swatch1",
+            "background-color": "@color-swatch6",
+            "background-color-hover": "@color-swatch2",
+            "letter-spacing": "inherit"
+        },
+        "font7": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "16px",
+            "font-weight": "700",
+            "line-height": "50px",
+            "color": "@color-swatch1",
+            "background-color": "@color-swatch3",
+            "background-color-hover": "@color-swatch3",
+            "letter-spacing": "inherit"
+        },
+        "font8": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "72px",
+            "font-weight": "800",
+            "line-height": "78px",
+            "color": "@color-swatch4",
+            "background-color": "@color-swatch1",
+            "background-color-hover": "@color-swatch1",
+            "letter-spacing": "inherit"
+        },
+        "font9": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "24px",
+            "font-weight": "800",
+            "line-height": "34px",
+            "color": "@color-swatch4",
+            "background-color": "@color-swatch4",
+            "background-color-hover": "@color-swatch4",
+            "letter-spacing": "inherit"
+        },
+        "font10": {
+            "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
+            "font-size": "24px",
+            "font-weight": "800",
+            "line-height": "44px",
+            "color": "@color-swatch4",
+            "background-color": "@color-swatch4",
+            "background-color-hover": "@color-swatch4",
+            "letter-spacing": "inherit"
+        }
+    },
+    "screenshot": "aperture-screenshot.jpg"
 }
